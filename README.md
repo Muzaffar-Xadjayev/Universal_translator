@@ -1,2 +1,2 @@
 # Universal_translator
-### This is Universal Translator Bot. It is perfect bot. I advise you to use it
+### This is Universal Translator Bot. I suggested that try to use it
